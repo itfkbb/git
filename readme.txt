@@ -1,1 +1,4 @@
-this is a test for git
+this is test for git !
+
+make some changes
+
